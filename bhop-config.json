@@ -1,6 +1,7 @@
 
 {
     "analytics_http_enabled": true,
+    "testdata": "test",
     "url_stats_api": "https://statsapi.parkour.link/newstat",
         "tps_button_disabled": true,
         "wait": 61,
