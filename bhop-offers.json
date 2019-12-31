@@ -1,0 +1,18 @@
+{
+  "offers": [
+    {
+      "region": "Turkish-canceled",
+      "appname": "Zumre Kelime Oyunu",
+      "android_package": "com.otoly.kelimeoyunu",
+      "bhop_knife": "not-used",
+      "fullurl": "https://play.google.com/store/search?q=zümre%20kelime%20oyunu"
+    },
+    {
+      "region": "global-c",
+      "appname": "Frosty Ball 3D",
+      "android_package": "com.otoly.frostyballski",
+      "bhop_knife": "not-used",
+      "fullurl": "https://play.google.com/store/search?q=Frosty%20Ball%203D&c=apps"
+    }
+  ]
+}
