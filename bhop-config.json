@@ -1,114 +1,114 @@
 {
+    "analog_bunny_mult": 1.5,
     "tutorial_enabled": true,
     "analytics_http_enabled": true,
     "url_stats_api": "https://statsapi.parkour.link/newstat",
-        "tps_button_disabled": true,
-        "wait": 61,
-        "waitfirst": 62,
-        "boost": true,
-        "boosttime": 1200,
-        "boostfactor": 2.0,
-        "unityintersfactor": 1.0,
-        "unityintersfactor_android": 1.0,
-        "unityintersfactor_ios": 1.0,
-    
-        "JumpForceKolaylastir": 1.00,
-        "JumpForceKolaylastirPuan": 1004000,
-    
-        "extracase": true,
-        "extracasecount": 3,
-        "extracasetime": 300,
-    
-        "SocketStatsEnabled": false,
-        "SocketStatsUrl": "ws://127.0.0.1:3000/socket.io/?EIO=4&transport=websocket",
-        "SocketStatsFreq": 5.0,
-    
-        "forcecontrol": false,
-        "controlid": 3,
-    
-        "ScoreboardReklamBekle": 0.1,
-    
-        "maxplayer": 15,
-        "servers": [{
-                "name": "EU01A",
-                "url": "ws://eu01sw.bhop.dbns.pw:80/socket.io/?EIO=4&transport=websocket"
-            },
-            {
-                "name": "EU02A",
-                "url": "ws://eu02sw.bhop.dbns.pw:81/socket.io/?EIO=4&transport=websocket"
-            },
-            {
-                "name": "US01A",
-                "url": "ws://us01vul.bhop.dbns.pw:3000/socket.io/?EIO=4&transport=websocket"
-            },
-    
-    
-            {
-                "name": "EU01B",
-                "url": "ws://eu01sw.bhop.dbns.pw:3000/socket.io/?EIO=4&transport=websocket"
-            },
-            {
-                "name": "EU02B",
-                "url": "ws://eu02sw.bhop.dbns.pw:3000/socket.io/?EIO=4&transport=websocket"
-            },
-            {
-                "name": "US01B",
-                "url": "ws://us01vul.bhop.dbns.pw:3001/socket.io/?EIO=4&transport=websocket"
-            },
-    
-            {
-                "name": "EU01C",
-                "url": "ws://eu01sw.bhop.dbns.pw:3001/socket.io/?EIO=4&transport=websocket"
-            },
-            {
-                "name": "EU02C",
-                "url": "ws://eu02sw.bhop.dbns.pw:3001/socket.io/?EIO=4&transport=websocket"
-            }
-        ],
-    
-    
-        "ids": [{
-                "freq": 3,
-                "alias": "begma",
-                "andinters": "ca-app-pub-1518481381607393/2921856860",
-                "iosinters": "ca-app-pub-1518481381607393/1896732863",
-                "andreward": "ca-app-pub-1518481381607393/8030993664",
-                "iosreward": "ca-app-pub-1518481381607393/8030993664",
-                "unityadsidand": "1732434",
-                "unityadsidios": "1732435"
-            },
-            {
-                "freq": 0,
-                "alias": "devbes",
-                "andinters": "ca-app-pub-8573868654325211/7407406250",
-                "iosinters": "ca-app-pub-8573868654325211/7407406250",
-                "andreward": "ca-app-pub-8573868654325211/6675535246",
-                "iosreward": "ca-app-pub-8573868654325211/6675535246",
-                "unityadsidand": "1112222",
-                "unityadsidios": "1113333"
-            },
-            {
-                "freq": 0,
-                "alias": "hutso",
-                "andinters": "ca-app-pub-5030271630114322/3120173278",
-                "iosinters": "ca-app-pub-5030271630114322/3120173278",
-                "andreward": "ca-app-pub-5030271630114322/1235836842",
-                "iosreward": "ca-app-pub-5030271630114322/1235836842",
-                "unityadsidand": "1112222",
-                "unityadsidios": "1113333"
-            },
-            {
-                "freq": 0,
-                "alias": "otoly",
-                "andinters": "ca-app-pub-1111111111111111/1111111111",
-                "iosinters": "ca-app-pub-1111111111111111/1111111111",
-                "andreward": "ca-app-pub-1111111111111111/1111111111",
-                "iosreward": "ca-app-pub-1111111111111111/1111111111",
-                "unityadsidand": "1112222",
-                "unityadsidios": "1113333"
-    
-            }
-        ]
-    }
-    
-    
+    "tps_button_disabled": true,
+    "wait": 61,
+    "waitfirst": 62,
+    "boost": true,
+    "boosttime": 1200,
+    "boostfactor": 2.0,
+    "unityintersfactor": 1.0,
+    "unityintersfactor_android": 1.0,
+    "unityintersfactor_ios": 1.0,
+
+    "JumpForceKolaylastir": 1.00,
+    "JumpForceKolaylastirPuan": 1004000,
+
+    "extracase": true,
+    "extracasecount": 3,
+    "extracasetime": 300,
+
+    "SocketStatsEnabled": false,
+    "SocketStatsUrl": "ws://127.0.0.1:3000/socket.io/?EIO=4&transport=websocket",
+    "SocketStatsFreq": 5.0,
+
+    "forcecontrol": false,
+    "controlid": 3,
+
+    "ScoreboardReklamBekle": 0.1,
+
+    "maxplayer": 15,
+    "servers": [{
+            "name": "EU01A",
+            "url": "ws://eu01sw.bhop.dbns.pw:80/socket.io/?EIO=4&transport=websocket"
+        },
+        {
+            "name": "EU02A",
+            "url": "ws://eu02sw.bhop.dbns.pw:81/socket.io/?EIO=4&transport=websocket"
+        },
+        {
+            "name": "US01A",
+            "url": "ws://us01vul.bhop.dbns.pw:3000/socket.io/?EIO=4&transport=websocket"
+        },
+
+
+        {
+            "name": "EU01B",
+            "url": "ws://eu01sw.bhop.dbns.pw:3000/socket.io/?EIO=4&transport=websocket"
+        },
+        {
+            "name": "EU02B",
+            "url": "ws://eu02sw.bhop.dbns.pw:3000/socket.io/?EIO=4&transport=websocket"
+        },
+        {
+            "name": "US01B",
+            "url": "ws://us01vul.bhop.dbns.pw:3001/socket.io/?EIO=4&transport=websocket"
+        },
+
+        {
+            "name": "EU01C",
+            "url": "ws://eu01sw.bhop.dbns.pw:3001/socket.io/?EIO=4&transport=websocket"
+        },
+        {
+            "name": "EU02C",
+            "url": "ws://eu02sw.bhop.dbns.pw:3001/socket.io/?EIO=4&transport=websocket"
+        }
+    ],
+
+
+    "ids": [{
+            "freq": 3,
+            "alias": "begma",
+            "andinters": "ca-app-pub-1518481381607393/2921856860",
+            "iosinters": "ca-app-pub-1518481381607393/1896732863",
+            "andreward": "ca-app-pub-1518481381607393/8030993664",
+            "iosreward": "ca-app-pub-1518481381607393/8030993664",
+            "unityadsidand": "1732434",
+            "unityadsidios": "1732435"
+        },
+        {
+            "freq": 0,
+            "alias": "devbes",
+            "andinters": "ca-app-pub-8573868654325211/7407406250",
+            "iosinters": "ca-app-pub-8573868654325211/7407406250",
+            "andreward": "ca-app-pub-8573868654325211/6675535246",
+            "iosreward": "ca-app-pub-8573868654325211/6675535246",
+            "unityadsidand": "1112222",
+            "unityadsidios": "1113333"
+        },
+        {
+            "freq": 0,
+            "alias": "hutso",
+            "andinters": "ca-app-pub-5030271630114322/3120173278",
+            "iosinters": "ca-app-pub-5030271630114322/3120173278",
+            "andreward": "ca-app-pub-5030271630114322/1235836842",
+            "iosreward": "ca-app-pub-5030271630114322/1235836842",
+            "unityadsidand": "1112222",
+            "unityadsidios": "1113333"
+        },
+        {
+            "freq": 0,
+            "alias": "otoly",
+            "andinters": "ca-app-pub-1111111111111111/1111111111",
+            "iosinters": "ca-app-pub-1111111111111111/1111111111",
+            "andreward": "ca-app-pub-1111111111111111/1111111111",
+            "iosreward": "ca-app-pub-1111111111111111/1111111111",
+            "unityadsidand": "1112222",
+            "unityadsidios": "1113333"
+
+        }
+    ]
+}
+
